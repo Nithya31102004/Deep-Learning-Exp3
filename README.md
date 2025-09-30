@@ -146,7 +146,8 @@ Register Number:2305001023
 
 **Confusion Matrix**
 
-<img width="1486" height="615" alt="image" src="https://github.com/user-attachments/assets/f69d3491-c736-421e-8d36-ff66dde3776e" />
+<img width="1137" height="612" alt="image" src="https://github.com/user-attachments/assets/d8e38f67-ee0b-42c7-bdfe-9ffcafb2d025" />
+
 
 
 **Classification Report**
